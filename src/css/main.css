@@ -25,6 +25,7 @@
 :global h6 {
   /* Bootstrap sets weight to 500, we don't have that */
   font-weight: 700;
+  text-align: center;
 }
 
 :global h2:first-child {
